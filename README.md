@@ -1,3 +1,4 @@
+![Screenshot 2025-03-18 180031](https://github.com/user-attachments/assets/97853135-6e5e-46cb-bfbc-e7b6a52d05dc)
 # SIH-SignApp
 # This AI-driven mobile application is designed to provide deaf and mute students with an inclusive, accessible learning platform, primarily supporting Gujarati and English sign language. The app facilitates real-time communication by converting speech and text into sign language and vice versa, enabling seamless interaction between signers and non-signers.
 
